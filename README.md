@@ -8,11 +8,11 @@ by [Peiqi Xie](https://github.com/Paige-Norton), Jinhong He, Chengyun Song, and 
 ## Visual Results
 
 ### Results on BSD (Real-world)
-![image](https://github.com/Paige-Norton/STFFNet/doc/compare.png)
+![image](https://github.com/Paige-Norton/STFFNet/blob/main/doc/compare.png)
 
 Quantitative results on different setups of BSD:
 
-<img src="https://github.com/Paige-Norton/STFFNet/doc/BSD_results.png" alt="bsd_config" width="800"/>
+<img src="https://github.com/Paige-Norton/STFFNet/blob/main/doc/BSD_results.png" alt="bsd_config" width="800"/>
 
 
 ### Results on REDS and GOPRO (Synthetic)
@@ -20,7 +20,7 @@ Quantitative results on different setups of BSD:
 
 Quantitative results on different setups of REDS and GOPRO:
 
-<img src="https://github.com/Paige-Norton/STFFNet/doc/other_results.png" alt="bsd_config" width="800"/>
+<img src="https://github.com/Paige-Norton/STFFNet/blob/main/doc/other_results.png" alt="bsd_config" width="800"/>
 
 
 ## Quick Start
