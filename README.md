@@ -2,7 +2,7 @@
 **[ICPR2024]** [A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring]()
 
 by [Peiqi Xie](https://github.com/Paige-Norton), Jinhong He, Chengyun Song, and Minglong Xue⋆
-
+Our poster is available at [here](https://github.com/Paige-Norton/STFFNet/blob/main/doc/R2-523%20poster.pdf).
 <!-- This work presents an efficient RNN-based model and **the first real-world dataset for image/video deblurring** :-) -->
 
 ## Visual Results
