@@ -7,20 +7,20 @@ by [Peiqi Xie](https://github.com/Paige-Norton), Jinhong He, Chengyun Song, and 
 
 ## Visual Results
 
-### Results on REDS (Synthetic)
-<!-- ![image](https://github.com/zzh-tech/Images/blob/master/ESTRNN/reds.gif) -->
-
-
-### Results on GOPRO (Synthetic)
-<!-- ![image](https://github.com/zzh-tech/Images/blob/master/ESTRNN/gopro.gif) -->
-
-
 ### Results on BSD (Real-world)
-<!-- ![image](https://github.com/zzh-tech/Images/blob/master/ESTRNN/bsd.gif) -->
+![image](https://github.com/Paige-Norton/STFFNet/doc/compare.png)
 
 Quantitative results on different setups of BSD:
 
-<img src="https://drive.google.com/uc?export=view&id=1CErjtpb5OkeLdeGmx4tA0fdsAx27ADHC" alt="bsd_config" width="800"/>
+<img src="https://github.com/Paige-Norton/STFFNet/doc/BSD_results.png" alt="bsd_config" width="800"/>
+
+
+### Results on REDS and GOPRO (Synthetic)
+<!-- ![image](https://github.com/zzh-tech/Images/blob/master/ESTRNN/reds.gif) -->
+
+Quantitative results on different setups of REDS and GOPRO:
+
+<img src="https://github.com/Paige-Norton/STFFNet/doc/other_results.png" alt="bsd_config" width="800"/>
 
 
 ## Quick Start
